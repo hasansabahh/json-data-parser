@@ -1,0 +1,12 @@
+{
+    "discord": {
+        "enabled": false,
+        "webhook": ""
+    },
+    "telegram": {
+        "enabled": false,
+        "tkn": "",
+        "chatid": ""
+    },
+    "txtonline": true
+}
